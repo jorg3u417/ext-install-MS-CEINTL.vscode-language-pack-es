@@ -1,0 +1,1 @@
+# ext-install-MS-CEINTL.vscode-language-pack-es
